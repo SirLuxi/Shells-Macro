@@ -21,7 +21,7 @@
 ### Installation
 1. Go to the [**Releases**](../../releases/latest) tab
 2. Download `the latest file`
-3. Run the macro — if Windows Defender warns you, click **More info → Run anyway** (this is normal for new apps without an EV certificate)
+3. Run the macro if Windows Defender warns you, click **More info → Run anyway** (this is normal for new apps without an EV certificate)
 4. Launch the macro and open Roblox
 
 ### Usage
