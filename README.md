@@ -2,7 +2,7 @@
 
 # Shells Macro
 
-[![Version](https://img.shields.io/badge/Version-v1.0.0-5a8aff?style=for-the-badge)](../../releases/latest)
+[![Version](https://img.shields.io/badge/Version-v4.0.0-5a8aff?style=for-the-badge)](../../releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows)](../../releases/latest)
 
 
